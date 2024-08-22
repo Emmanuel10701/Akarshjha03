@@ -1,5 +1,8 @@
-## AKARSH JHA
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=37&pause=1000&color=2DF74E&center=true&width=435&lines=AKARSH+JHA" alt="Typing SVG" /></a>
 
+<div align="center">
+<img src="./GradientLine.gif" align="center" style="width: 100%"/>
+</div>
 
 <table style="border-collapse: collapse;">
   <tr>
