@@ -1,5 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&pause=1000&color=25F72B&center=true&width=1100&height=50&lines=AKARSH+JHA" alt="Typing SVG" /></a>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=50&pause=1000&color=25F72B&center=true&width=1100&height=100&lines=AKARSH+JHA" alt="Typing SVG" /></a>
 <div align="center">
 <img src="./GradientLine.gif" align="center" style="width: 100%"/>
 </div>
