@@ -1,4 +1,5 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=50&pause=1000&color=25F72B&center=true&width=1100&height=100&lines=AKARSH+JHA" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=60&pause=1000&color=25F72B&center=true&width=1100&height=100&lines=%3C+AKARSH+JHA+%2F+%3E)](https://git.io/typing-svg)
+
 <div align="center">
 <img src="./GradientLine.gif" align="center" style="width: 100%"/>
 </div>
