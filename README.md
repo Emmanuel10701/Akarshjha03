@@ -25,15 +25,18 @@
 ### Connect With Me 
 
 <div align="center">
+  <a href="https://www.linkedin.com/in/akarsh-jha-a001012a5">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+  </a>
   <a href="https://stackoverflow.com/users/22983041/akarsh-jha">
     <img src="https://skillicons.dev/icons?i=stackoverflow" alt="Stack Overflow"/>
-  </a>
-    <a href="https://www.linkedin.com/in/akarsh-jha-a001012a5">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
   </a>
   <a href="mailto:akarshjha.matrix@gmail.com">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" alt="Gmail"/>
   </a>
+  <a href="https://dev.to/akarshjha10">
+    <img src="https://skillicons.dev/icons?i=devto" alt="DevTo"/>
+  </a> 
 </div>
 
 
