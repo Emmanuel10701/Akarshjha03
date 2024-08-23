@@ -4,6 +4,11 @@
 <img src="./GradientLine.gif" align="center" style="width: 100%"/>
 </div>
 
+<div align="center">
+    <img src="./Github_Banner.jpg" align="center" style="width:100%;" />
+</div>
+
+
 <table style="border-collapse: collapse;">
   <tr>
     <td style="border: none;">
