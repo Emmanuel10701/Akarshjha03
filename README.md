@@ -42,13 +42,13 @@
 
 ## 🚀 Quick Stats
 
-- 💻 **Tech Stack**: Portfolio includes projects based on MERN stack, React-Native App, Data Science, IOT, Blockchain, algorithm optimization 
-- 🎨 **UI/UX Enthusiast**: Passionate about design with expertise in Figma integrated with Framer, Adobe XD, Sketch.
-- 📱 **Tech Expoloration**: Exploring GPT models & Graphics designing with Adobe Photoshop, Illustrator, wacom and Automating tasks.
+- 💻 **Tech Stack**: Portfolio includes projects based on MERN stack, React-Native App, Data Science, IOT, and Blockchain.
+- 🎨 **UI/UX Enthusiast**: Passionate about design with expertise in Figma integrated with Framer, Adobe XD, and Sketch.
+- 📱 **Tech Expoloration**: Exploring GPT models & Graphics design with Adobe Photoshop, and Illustrator with Automating tasks.
 - 🎓 **Academic Interests**: Delving into operating systems, microprocessors, system design, and software engineering.
 - 📚 **Beyond Coding**: Avid reader, calligraphy artist, chess lover, and active participant in hackathons & weekly challenges.
-- 🔨 **Projects Completed**: Successfully completed 15+ projects.
-- ✍️ **Blogs Written**: Authored 5+ technical blogs, sharing insights on programming, design, and more.
+- 📊 **Projects Completed**: Successfully completed 15+ projects & collaborated with _ companies.
+- ✍️ **Blogs Written**: Authored 5+ technical blogs, sharing insights on programming, design, and algorithm optimization. 
 
 
 <!---
