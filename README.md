@@ -40,17 +40,16 @@
 </div>
 
 
+## 🚀 Quick Stats
 
+- 💻 **Tech Stack**: Portfolio includes projects based on MERN stack, React-Native App, Data Science, IOT, Blockchain, algorithm optimization 
+- 🎨 **UI/UX Enthusiast**: Passionate about design with expertise in Figma integrated with Framer, Adobe XD, Sketch.
+- 📱 **Tech Expoloration**: Exploring GPT models & Graphics designing with Adobe Photoshop, Illustrator, wacom and Automating tasks.
+- 🎓 **Academic Interests**: Delving into operating systems, microprocessors, system design, and software engineering.
+- 📚 **Beyond Coding**: Avid reader, calligraphy artist, chess lover, and active participant in hackathons & weekly challenges.
+- 🔨 **Projects Completed**: Successfully completed 15+ projects.
+- ✍️ **Blogs Written**: Authored 5+ technical blogs, sharing insights on programming, design, and more.
 
-
-
-- 👋 Hi, I’m @Akarshjha03
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 Akarshjha03/Akarshjha03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
