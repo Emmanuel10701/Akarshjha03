@@ -56,20 +56,20 @@
 ### Languages
 <div align="center">  
 <!-- <img style="margin: 10px" src="https://skillicons.dev/icons?i=html,css,js,php,py,java,c,matlab,dart,nodejs,sass,mysql&perline=6" alt="Languages" /> -->
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=html,css,js,php,py,java,c,matlab,r,nodejs,sass,mysql&perline=6" alt="Languages" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=html,css,js,py,java,c,nodejs,mongodb,mysql,postgres,kotlin,cpp&perline=6" alt="Languages" />
 </div>
 </td><td valign="top" width="33%">
 
 ### Frameworks  
 <div align="center">
 <!-- <img style="margin: 10px" src="https://skillicons.dev/icons?i=bootstrap,tailwindcss,astro,react,nextjs,flask,django,tensorflow,flutter,jquery&perline=6" alt="Frameworks" /> -->
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=bootstrap,tailwindcss,astro,react,nextjs,flask,django,tensorflow,sklearn,jquery&perline=6" alt="Frameworks" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=bootstrap,tailwindcss,materialui,react,express,django,spring,hibernate,tensorflow,sklearn,pytorch,graphql&perline=6" alt="Frameworks" />
 </div>
 </td><td valign="top" width="33%">
 
 ### Tools  
 <div align="center">  
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=vscode,androidstudio,ai,ps,ae,pr,xd,figma,firebase,wordpress,git,postman&perline=6" alt="Tools" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=linux,redhat,vscode,androidstudio,ps,ae,figma,firebase,git,postman,docker,jenkins&perline=6" alt="Tools" />
 </div>
 </td></tr></table>  <br/> 
 
