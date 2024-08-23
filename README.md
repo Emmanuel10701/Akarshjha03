@@ -7,13 +7,14 @@
 <table style="border-collapse: collapse;">
   <tr>
     <td style="border: none;">
-      <p> I'm Akarsh, a passionate Computer Science undergrad specializing in full-stack development focusing on MERN, Android development using React Native, and competitive coding with Java. I enjoy exploring the latest in UI/UX design, AL/ML , and data analytics. My projects reflect my commitment to building impactful, user-centric solutions. I’m always learning and open to new challenges. Let’s collaborate and innovate together!</p>
+      <p> I'm Akarsh, a passionate Computer Science undergrad specializing in full-stack development focusing on MERN, Android development using React Native, and competitive coding with Java. I enjoy exploring the latest in UI/UX design, AL/ML, and data analytics. My projects reflect my commitment to building impactful, user-centric solutions. I’m always learning and open to new challenges. Let’s collaborate and innovate together!</p>
     </td>
     <td style="border: none;">
-      <img src="https://octodex.github.com/daftpunktocat-guy/" alt="Octocat">
+      <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" alt="Octocat">
     </td>
   </tr>
 </table>
+
 
 ## Connect with me  
 <div align="center">
