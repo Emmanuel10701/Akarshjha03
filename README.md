@@ -22,12 +22,20 @@
 </table>
 
 
-## Connect With Me  
+### Connect With Me 
+
 <div align="center">
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/akarsh-jha-a001012a5)
-[![My Skills](https://skillicons.dev/icons?i=stackoverflow)](https://https://stackoverflow.com/users/22983041/akarsh-jha)
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=gmail)](mailto:akarshjha.matrix@gmail.com)
-</div>  
+  <a href="https://stackoverflow.com/users/22983041/akarsh-jha">
+    <img src="https://skillicons.dev/icons?i=stackoverflow" alt="Stack Overflow"/>
+  </a>
+    <a href="https://www.linkedin.com/in/akarsh-jha-a001012a5">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:akarshjha.matrix@gmail.com">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" alt="Gmail"/>
+  </a>
+</div>
+
 
 
 
