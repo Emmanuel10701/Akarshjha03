@@ -44,7 +44,7 @@
 
 - 💻 **Tech Stack**: Portfolio includes projects based on MERN stack, React-Native App, Data Science, IOT, and Blockchain.
 - 🎨 **UI/UX Enthusiast**: Passionate about design with expertise in Figma integrated with Framer, Adobe XD, and Sketch.
-- 📱 **Tech Expoloration**: Exploring GPT models & Graphics design with Adobe Photoshop, and Illustrator with Automating tasks.
+- 📱 **Tech Expoloration**: Exploring GPT models & Graphics design with Adobe Illustrator, and Automating tasks.
 - 🎓 **Academic Interests**: Delving into operating systems, microprocessors, system design, and software engineering.
 - 📚 **Beyond Coding**: Avid reader, calligraphy artist, chess lover, and active participant in hackathons & weekly challenges.
 - 📊 **Projects Completed**: Successfully completed 15+ projects & collaborated with _ companies.
