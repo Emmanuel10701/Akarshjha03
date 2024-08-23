@@ -48,7 +48,30 @@
 - 🎓 **Academic Interests**: Delving into operating systems, microprocessors, system design, and software engineering.
 - 📚 **Beyond Coding**: Avid reader, calligraphy artist, chess lover, and active participant in hackathons & weekly challenges.
 - 📊 **Projects Completed**: Successfully completed 15+ projects & collaborated with _ companies.
-- ✍️ **Blogs Written**: Authored 5+ technical blogs, sharing insights on programming, design, and algorithm optimization. 
+- ✍️ **Blogs Written**: Authored 5+ technical blogs, sharing insights on programming, design, and algorithm optimization.
+
+## My Skill Set
+<table><tr><td valign="top" width="33%">
+
+### Languages
+<div align="center">  
+<!-- <img style="margin: 10px" src="https://skillicons.dev/icons?i=html,css,js,php,py,java,c,matlab,dart,nodejs,sass,mysql&perline=6" alt="Languages" /> -->
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=html,css,js,php,py,java,c,matlab,r,nodejs,sass,mysql&perline=6" alt="Languages" />
+</div>
+</td><td valign="top" width="33%">
+
+### Frameworks  
+<div align="center">
+<!-- <img style="margin: 10px" src="https://skillicons.dev/icons?i=bootstrap,tailwindcss,astro,react,nextjs,flask,django,tensorflow,flutter,jquery&perline=6" alt="Frameworks" /> -->
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=bootstrap,tailwindcss,astro,react,nextjs,flask,django,tensorflow,sklearn,jquery&perline=6" alt="Frameworks" />
+</div>
+</td><td valign="top" width="33%">
+
+### Tools  
+<div align="center">  
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=vscode,androidstudio,ai,ps,ae,pr,xd,figma,firebase,wordpress,git,postman&perline=6" alt="Tools" />
+</div>
+</td></tr></table>  <br/> 
 
 
 <!---
