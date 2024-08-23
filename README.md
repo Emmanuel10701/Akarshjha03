@@ -22,7 +22,7 @@
 </table>
 
 
-### Connect With Me 
+## Connect 
 
 <div align="center">
   <a href="https://www.linkedin.com/in/akarsh-jha-a001012a5">
@@ -40,7 +40,7 @@
 </div>
 
 
-## 🚀 Quick Stats
+##  Quick Stats
 
 - 💻 **Tech Stack**: Portfolio includes projects based on MERN stack, React-Native App, Data Science, IOT, and Blockchain.
 - 🎨 **UI/UX Enthusiast**: Passionate about design with expertise in Figma integrated with Framer, Adobe XD, and Sketch.
