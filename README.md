@@ -69,7 +69,7 @@
 
 ### Tools  
 <div align="center">  
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=linux,redhat,vscode,androidstudio,ps,ae,figma,firebase,git,postman,docker,jenkins&perline=6" alt="Tools" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=linux,eclipse,vscode,androidstudio,ps,ae,figma,firebase,git,postman,docker,jenkins&perline=6" alt="Tools" />
 </div>
 </td></tr></table>  <br/> 
 
