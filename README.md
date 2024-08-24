@@ -74,6 +74,25 @@
 </td></tr></table>  <br/> 
 
 
+<p align="center">
+  <a href="https://github.com/Akarshjha03">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akarshjha03&theme=gotham&border=00FF00&background=1A1B27" alt="Akarsh's GitHub streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Akarshjha03">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akarshjha03&theme=gotham" alt="Akarsh's GitHub Contribution"/>
+  </a>
+</p>
+
+<a> 
+    <a href="https://github.com/Akarshjha03"><img alt="Akarsh's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Akarshjha03&show_icons=true&count_private=true&theme=gotham&border_color=00FF00&bg_color=1A1B27&title_color=00FF00&icon_color=00FF00" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/Akarshjha03"><img alt="Akarsh's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Akarshjha03&langs_count=8&layout=compact&theme=gotham&border_color=00FF00&bg_color=1A1B27&title_color=00FF00&icon_color=00FF00" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+
+
 <!---
 Akarshjha03/Akarshjha03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
