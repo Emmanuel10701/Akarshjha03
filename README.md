@@ -50,6 +50,19 @@
 - 📊 **Projects Completed**: Successfully completed 15+ projects & collaborated with _ companies.
 - ✍️ **Blogs Written**: Authored 5+ technical blogs, sharing insights on programming, design, and algorithm optimization.
 
+<div align="center">
+  <a href="https://www.codechef.com/users/your_username" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Profile">
+  </a>
+  <a href="https://leetcode.com/u/dev_Akarsh1722/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile">
+  </a>
+  <a href="https://www.hackerrank.com/your_username" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Profile">
+  </a>
+</div>
+
+
 ## My Skill Set
 <table><tr><td valign="top" width="33%">
 
