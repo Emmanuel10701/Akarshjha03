@@ -69,7 +69,7 @@
 ### Languages
 <div align="center">  
 <!-- <img style="margin: 10px" src="https://skillicons.dev/icons?i=html,css,js,php,py,java,c,matlab,dart,nodejs,sass,mysql&perline=6" alt="Languages" /> -->
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=html,css,js,py,java,git,nodejs,mongodb,mysql,postgres,kotlin,cpp&perline=6" alt="Languages" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=html,css,js,py,java,cpp,nodejs,mongodb,mysql,postgres,kotlin,git&perline=6" alt="Languages" />
 </div>
 </td><td valign="top" width="33%">
 
