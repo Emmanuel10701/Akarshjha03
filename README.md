@@ -105,7 +105,7 @@
   <br/>
 </a>
 
-## Snake Game
+## Devouring Code, One Contribution at a Time!
 <!--- Snake Animation -->
 ![Snake animation](https://github.com/Akarshjha03/Akarshjha03/blob/output/github-snake-dark.svg)
 
