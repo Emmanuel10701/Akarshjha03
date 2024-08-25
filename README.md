@@ -69,7 +69,7 @@
 ### Languages
 <div align="center">  
 <!-- <img style="margin: 10px" src="https://skillicons.dev/icons?i=html,css,js,php,py,java,c,matlab,dart,nodejs,sass,mysql&perline=6" alt="Languages" /> -->
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=html,css,js,py,java,c,nodejs,mongodb,mysql,postgres,kotlin,cpp&perline=6" alt="Languages" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=html,css,js,py,java,git,nodejs,mongodb,mysql,postgres,kotlin,cpp&perline=6" alt="Languages" />
 </div>
 </td><td valign="top" width="33%">
 
@@ -82,7 +82,7 @@
 
 ### Tools  
 <div align="center">  
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=linux,eclipse,vscode,androidstudio,ps,ae,figma,firebase,git,postman,docker,jenkins&perline=6" alt="Tools" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=linux,eclipse,vscode,androidstudio,ps,ae,figma,firebase,azure,postman,docker,jenkins&perline=6" alt="Tools" />
 </div>
 </td></tr></table>  <br/> 
 
