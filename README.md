@@ -109,6 +109,8 @@
 <!--- Snake Animation -->
 ![Snake animation](https://github.com/Akarshjha03/Akarshjha03/blob/output/github-snake-dark.svg)
 
+<img src="Assests/divider1.png">
+
 
 
 <!---
