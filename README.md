@@ -40,7 +40,7 @@
 </div>
 
 
-##  Quick Stats
+##  💫Quick Stats
 
 - 💻 **Tech Stack**: Portfolio includes projects based on MERN stack, React-Native App, Data Science, IOT, and Blockchain.
 - 🎨 **UI/UX Enthusiast**: Passionate about design with expertise in Figma integrated with Framer, Procreate, and Sketch.
