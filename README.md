@@ -22,7 +22,7 @@
 </table>
 
 
-## Connect 
+## 🌍Connect 
 
 <div align="center">
   <a href="https://www.linkedin.com/in/akarsh-jha-a001012a5">
@@ -86,7 +86,7 @@
 </div>
 </td></tr></table>  <br/> 
 
-## Profile Stats
+##  📊Profile Stats
 <p align="center">
   <a href="https://github.com/Akarshjha03">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akarshjha03&theme=chartreuse-dark&border=00FF00&background=1A1B27" alt="Akarsh's GitHub streak"/>
