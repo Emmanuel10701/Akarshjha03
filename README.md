@@ -39,7 +39,6 @@
   </a> 
 </div>
 
-
 ##  💫Quick Stats
 
 - 💻 **Tech Stack**: Portfolio includes projects based on MERN stack, React-Native App, Data Science, IOT, and Blockchain.
