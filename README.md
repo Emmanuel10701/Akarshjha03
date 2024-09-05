@@ -31,7 +31,7 @@
   <a href="https://stackoverflow.com/users/22983041/akarsh-jha">
     <img src="https://skillicons.dev/icons?i=stackoverflow" alt="Stack Overflow"/>
   </a>
-  <a href="mailto:akarshjha.matrix@gmail.com">
+  <a href="mailto:akarshjha23@proton.me">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" alt="Gmail"/>
   </a>
   <a href="https://dev.to/akarshjha10">
