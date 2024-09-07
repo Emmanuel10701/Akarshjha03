@@ -81,7 +81,7 @@
 
 ### Tools  
 <div align="center">  
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=linux,eclipse,vscode,androidstudio,ps,ae,figma,firebase,azure,postman,docker,jenkins&perline=6" alt="Tools" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=linux,eclipse,vscode,androidstudio,ps,ae,figma,firebase,aws,postman,docker,jenkins&perline=6" alt="Tools" />
 </div>
 </td></tr></table>  <br/> 
 
