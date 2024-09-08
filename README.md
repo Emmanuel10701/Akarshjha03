@@ -75,7 +75,7 @@
 ### Frameworks  
 <div align="center">
 <!-- <img style="margin: 10px" src="https://skillicons.dev/icons?i=bootstrap,tailwindcss,astro,react,nextjs,flask,django,tensorflow,flutter,jquery&perline=6" alt="Frameworks" /> -->
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=bootstrap,tailwindcss,materialui,react,express,django,spring,hibernate,tensorflow,sklearn,pytorch,graphql&perline=6" alt="Frameworks" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=tailwindcss,react,nodejs,express,redux,fastapi,redis,graphql,spring,pytorch,sklearn,tensorflow,vite,vitest&perline=6" alt="Frameworks" />
 </div>
 </td><td valign="top" width="33%">
 
