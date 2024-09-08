@@ -68,7 +68,7 @@
 ### Languages
 <div align="center">  
 <!-- <img style="margin: 10px" src="https://skillicons.dev/icons?i=html,css,js,php,py,java,c,matlab,dart,nodejs,sass,mysql&perline=6" alt="Languages" /> -->
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=python,java,c,html,css,js,git,ts,cpp,swift,kotlin,solidity&perline=6" alt="Languages" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=python,java,c,html,css,js,git,ts,swift,kotlin,cpp,solidity&perline=6" alt="Languages" />
 </div>
 </td><td valign="top" width="33%">
 
