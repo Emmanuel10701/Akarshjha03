@@ -81,7 +81,7 @@
 
 ### Tools  
 <div align="center">  
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=raspberrypi,vscode,androidstudio,linux,bash,was,figma,firebase,gitlab,postman,heruku,vite,jest,npm,mongodb,mysql,postgres&perline=6" alt="Tools" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=raspberrypi,vscode,androidstudio,linux,bash,was,figma,firebase,gitlab,postman,heroku,jest,vite,mongodb,mysql,postgres,npm&perline=6" alt="Tools" />
 </div>
 </td></tr></table>  <br/> 
 
