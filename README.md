@@ -17,7 +17,7 @@
     </td>
     <td style="border: none;">
       <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" alt="Octocat">
-    </td>
+    </td> 
   </tr>
 </table>
 
