@@ -98,11 +98,21 @@
   </a>
 </p>
 
-<a> 
-    <a href="https://github.com/Akarshjha03"><img alt="Akarsh's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Akarshjha03&show_icons=true&count_private=true&theme=chartreuse-dark&border_color=00FF00&bg_color=1A1B27&title_color=00FF00&icon_color=00FF00" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/Akarshjha03"><img alt="Akarsh's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Akarshjha03&langs_count=8&layout=compact&theme=chartreuse-dark&border_color=00FF00&bg_color=1A1B27&title_color=00FF00&icon_color=00FF00" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
+<table align="center">
+  <tr>
+    <td valign="top">
+        <a href="https://github.com/Akarshjha03">
+            <img alt="Akarsh's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Akarshjha03&show_icons=true&count_private=true&theme=chartreuse-dark&border_color=00FF00&bg_color=1A1B27&title_color=00FF00&icon_color=00FF00" height="192px" width="100%"/>
+        </a>
+    </td>
+    <td valign="top">
+        <a href="https://github.com/Akarshjha03">
+            <img alt="Akarsh's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Akarshjha03&langs_count=8&layout=compact&theme=chartreuse-dark&border_color=00FF00&bg_color=1A1B27&title_color=00FF00&icon_color=00FF00" height="192px" width="100%"/>
+        </a>
+    </td>
+  </tr>
+</table>
+
 
 ## 🐍Devouring Code, One Contribution at a Time!
 <!--- Snake Animation -->
