@@ -7,7 +7,6 @@
 <div align="center">
     <img src="./GIT_BANNER.jpg" align="center" style="width:100%;" />
 </div>
-
 <br>
 
 <table style="border-collapse: collapse;">
