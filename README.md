@@ -23,7 +23,7 @@
 ## 🌍Connect 
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/akarsh-jha-a001012a5">
+  <a href="www.linkedin.com/in/akarshjha03">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
   </a>
   <a href="https://stackoverflow.com/users/22983041/akarsh-jha">
