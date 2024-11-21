@@ -40,7 +40,7 @@
 ##  💫Quick Stats
 
 - 💻 **Tech Stack**: Portfolio includes projects based on MERN stack, React-Native App, Data Science, IOT, and Blockchain.
-- 🎨 **UI/UX Enthusiast**: Passionate about design with expertise in Figma integrated with Framer, Procreate, and Sketch.
+- 🎨 **UI/UX Enthusiast**: Passionate about Product- Driven design with expertise in Figma integrated with Framer, Procreate.
 - 📱 **Tech Expoloration**: Exploring GPT models & Graphics design with Adobe Illustrator, and Automating tasks.
 - 🎓 **Academic Interests**: Delving into operating systems, microprocessors, system design, and software engineering.
 - 📚 **Beyond Coding**: Avid reader, calligraphy artist, chess lover, and active participant in hackathons & weekly challenges.
