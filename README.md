@@ -60,7 +60,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Akarshjha03&color=green&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Akarshjha03&color=brightgreen&style=for-the-badge" alt="Profile Views" />
 </div>
 
 
