@@ -111,6 +111,9 @@
   </tr>
 </table>
 
+<h2 align="center"> ⚡ Open Source Achievements 🎖️</h2>
+<div align="center" style="max-width: 600px; margin: auto;">
+
 
 ## 🐍Devouring Code, One Contribution at a Time!
 <!--- Snake Animation -->
