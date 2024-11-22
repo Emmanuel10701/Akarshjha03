@@ -83,6 +83,8 @@
 </div>
 </td></tr></table>  <br/> 
 
+![](https://komarev.com/ghpvc/?username=Akarshjha03&color=green)
+
 ##  📊Profile Stats
 <p align="center">
   <a href="https://github.com/Akarshjha03">
