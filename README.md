@@ -59,6 +59,10 @@
   </a>
 </div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Akarshjha03&color=green" alt="Profile Views" />
+</div>
+
 
 ## 🛠My Skill Set
 <table><tr><td valign="top" width="33%">
@@ -82,8 +86,6 @@
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=raspberrypi,vscode,androidstudio,aws,bash,postman,figma,firebase,vite,mongodb,mysql,postgres&perline=6" alt="Tools" />
 </div>
 </td></tr></table>  <br/> 
-
-![](https://komarev.com/ghpvc/?username=Akarshjha03&color=green)
 
 ##  📊Profile Stats
 <p align="center">
