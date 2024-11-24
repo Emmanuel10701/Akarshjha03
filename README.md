@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-    <img src="./GIT_BANNER.jpg" align="center" style="width:100%;" />
+    <img src="./Github_Ban.jpg" align="center" style="width:100%;" />
 </div>
 <br>
 
